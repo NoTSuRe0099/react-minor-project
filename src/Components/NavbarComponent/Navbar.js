@@ -65,11 +65,11 @@ const Navbar = (props) => {
                                 </li>
                                 <li className="block ml-0 sm:ml-6 py-3 px-3">
                                     <NavLink
-                                        to="/skills"
+                                        to="/TestPage"
                                         activeClassName="is-active"
                                         className="Link w-full"
                                     >
-                                        Skills
+                                        Test
                                     </NavLink>
                                 </li>
                                 <li className="block ml-0 sm:ml-6 py-3 px-3">
